@@ -2,7 +2,7 @@
 There are many time-saving and headache-saving tips and tricks you can use to make working in SAS® Enterprise Guide® a breeze. 
 Did you know that you can change your layout so that you can see your code and your results at the same time? 
 You will learn 20 tips and tricks for working in SAS Enterprise Guide in 20 minutes. 
-One tip per minute, and out of the twenty you are guaranteed to find at least one nugget that will making your life easier. 
+One tip per minute, and out of the twenty you are guaranteed to find at least one nugget that will make your life easier. 
 
 ## Additional information
 
